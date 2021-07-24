@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, Minecraft Dev France</h1>
-<h3 align="left">Communauté de développeur fondé par KinderrKill le 26/09/2019 pour offrir un soutien aux développeurs Minecraft.</h3>
+<h3 align="left">Communauté de développeurs fondée par KinderrKill le 26/09/2019 pour offrir un soutien aux développeurs Minecraft.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MinecraftDevFrance&label=Profile%20views&color=0e75b6&style=flat" alt="MinecraftDevFrance" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MinecraftDevFrance" alt="MinecraftDevFrance" /></a> </p>
 
-- 🌟 Ce compte Github a principalement été créer pour les Events, mais peut aussi être utilisé pour fournire des API etc...
+- 🌟 Ce compte Github a principalement été créé pour les events, mais peut aussi être utilisé pour fournir des API etc...
 
-- 💬 Langages Utilisé **Java, Scala, C#**
+- 💬 Langages utilisés: **Java, Scala, C#**
 
 
 <p align="left">
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MinecraftDevFrance&show_icons=true&cache_seconds=0&locale=en&count_private=true" alt="MinecraftDevFrance" /></p
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MinecraftDevFrance&" alt="MinecraftDevFrance" /></p>
-
